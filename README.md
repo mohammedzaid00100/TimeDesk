@@ -4,7 +4,7 @@ A clean, minimal web app that provides a **Clock**, **Timer**, and **Stopwatch**
 Includes a launcher page with a left side panel that opens each tool in a separate browser tab, plus individual pages for each tool. Ready for GitHub Pages.
 
 ## Demo
-Live demo: https://your-username.github.io/repo-name
+Live demo: https://6a6258c351cca1cc83bbe373--funny-buttercream-93522c.netlify.app/
 
 ## Features
 - Launcher with minimize / maximize behavior
