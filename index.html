@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>TimeDesk Launcher</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Left side panel -->
+  <div id="sidePanel" class="panel expanded" aria-hidden="false">
+    <div class="panel-top">
+      <button id="minimizeBtn" class="icon-btn" title="Minimize">—</button>
+    </div>
+    <div class="panel-body">
+      <button id="openClock" class="panel-action">Clock</button>
+      <button id="openTimer" class="panel-action">Timer</button>
+      <button id="openStopwatch" class="panel-action">Stopwatch</button>
+    </div>
+  </div>
+
+  <!-- Minimized single button -->
+  <button id="maximizeBtn" class="mini-max-btn hidden" title="Open">▣</button>
+
+  <main class="main-area">
+    <div class="launcher-center">
+      <div class="big-title">TimeDesk</div>
+      <div class="launcher-sub">Open Clock, Timer or Stopwatch in separate tabs</div>
+    </div>
+  </main>
+
+  <script src="panel.js"></script>
+</body>
+</html>
