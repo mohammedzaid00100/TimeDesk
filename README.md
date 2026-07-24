@@ -19,10 +19,3 @@ Live demo: https://6a6258c351cca1cc83bbe373--funny-buttercream-93522c.netlify.ap
 ### Live demo (Netlify)
 This project is deployed on Netlify:
 **https://6a6258c351cca1cc83bbe373--funny-buttercream-93522c.netlify.app/**
-
-### Run locally (quick)
-1. Clone the repo:
-```bash
-git clone https://github.com/mohammedzaid00100/repo-name.git
-cd repo-name
-
